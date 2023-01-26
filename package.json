@@ -1,0 +1,19 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/keyring": "^10.2.6",
+    "@unique-nft/accounts": "^0.3.4",
+    "@unique-nft/sdk": "^0.2.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
